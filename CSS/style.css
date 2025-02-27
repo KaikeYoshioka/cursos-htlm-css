@@ -1,0 +1,46 @@
+/*  External CSS */
+
+body    {
+    padding-bottom: 3000px;
+    background-color: gray;
+}
+
+h3 {
+    color: rgb(145, 10, 93);
+    font-size: 70px ;
+}
+
+/*  Ordem do CSS */
+/* External 3 */
+p{
+    color: hotpink;
+    font-size: 100px;
+}
+/* classes */
+.paragrafos {
+
+    background-color: black;
+    color: aqua;
+    padding: 10px;
+}
+
+/* Ids */
+#IdTituloPrincial {
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+/* Ordem dos seletores */
+/* tag */
+h2{
+    border-bottom: 2px solid red
+}
+/* classe */
+.titulotaltal {
+    border-bottom: 2px solid rgb(48, 7, 122);
+}
+/* id */
+#titulotal {
+    border-bottom: 2px solid green;
+}
+
